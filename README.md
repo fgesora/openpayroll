@@ -47,7 +47,7 @@ Once xtracted, edit the file /assets/classes/class.db.php with your respective d
 The database dump file is located in teh /database directory
 
 User details are:
-info@democompany.org
+info@democompany.com
 123456
 
 <h2>Contributing</h2></h2>
